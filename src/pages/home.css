@@ -1,0 +1,40 @@
+
+html{
+    scroll-behavior: smooth;
+}
+.tes2Style{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 82px;
+    color: white;
+}
+
+.head{
+    background: #12274F;
+    display: flex;
+    justify-content: center;
+    gap: 9rem;
+}
+.heed_contain{
+    width: 300px;
+}
+.er{
+    display: flex;
+    height: 700px;
+}
+
+button{
+    padding: 20px;
+    border-radius: 50rem;
+    border: none;
+    margin-top: 0;
+    background: #18ca6b;
+    color: white;
+    font-weight: 700;
+}
+
+.ima{
+    width: 300px;
+}
